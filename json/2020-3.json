@@ -1,0 +1,2114 @@
+{
+    "data": [
+        {
+            "title": "アイドリッシュセブン Second BEAT！",
+            "url": "https://idolish7.com/aninana/",
+            "production": "TROYCA",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 0,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 1,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 3,
+                    "start_at": "2:35",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "テレビ北海道",
+                    "dow": 3,
+                    "start_at": "2:35",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "テレビ九州",
+                    "dow": 4,
+                    "start_at": "2:35",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 3,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/07"
+                }
+            ]
+        },
+        {
+            "title": "アクダマドライブ",
+            "url": "https://akudama-drive.com/",
+            "production": "studio ぴえろ",
+            "onair": [
+                {
+                    "channel": "BS日テレ",
+                    "dow": 4,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 5,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/09"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/09"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 5,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/09"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 4,
+                    "start_at": "21:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "J:テレ",
+                    "dow": 5,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/13"
+                }
+            ]
+        },
+        {
+            "title": "アサルトリリィ Bouquet",
+            "url": "https://anime.assaultlily-pj.com/",
+            "production": "シャフト",
+            "onair": [
+                {
+                    "channel": "TBSテレビ",
+                    "dow": 5,
+                    "start_at": "1:28",
+                    "start_date": "2020/10/01"
+                },
+                {
+                    "channel": "BS-TBS",
+                    "dow": 0,
+                    "start_at": "2:00",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "安達としまむら",
+            "url": "https://www.tbs.co.jp/anime/adashima/",
+            "production": "手塚プロダクション",
+            "onair": [
+                {
+                    "channel": "TBSテレビ",
+                    "dow": 5,
+                    "start_at": "1:58",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 5,
+                    "start_at": "11:30",
+                    "start_date": "2020/10/09"
+                }
+            ]
+        },
+        {
+            "title": "兄に付ける薬はない！4-快把我哥帯走4-",
+            "url": "https://anitsuke.com/",
+            "production": "ファンワークス",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "21:54",
+                    "start_date": "2020/10/02"
+                }
+            ]
+        },
+        {
+            "title": "池袋ウエストゲートパーク",
+            "url": "https://iwgp-anime.com/",
+            "production": "動画工房",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 2,
+                    "start_at": "21:00",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 3,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 4,
+                    "start_at": "1:35",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "静岡放送",
+                    "dow": 3,
+                    "start_at": "2:25",
+                    "start_date": "2020/10/13"
+                }
+            ]
+        },
+        {
+            "title": "犬と猫どっちも飼ってると毎日たのしい",
+            "url": "https://dog-and-cat.com/",
+            "production": "Team Till Dawn",
+            "onair": [
+                {
+                    "channel": [
+                        "北海道放送",
+                        "青森テレビ",
+                        "IBC岩手放送",
+                        "東北放送",
+                        "テレビユー山形",
+                        "テレビユー福島",
+                        "TBSテレビ",
+                        "テレビ山梨",
+                        "新潟放送",
+                        "信越放送",
+                        "チューリップテレビ",
+                        "北陸放送",
+                        "静岡放送",
+                        "CBCテレビ",
+                        "毎日放送",
+                        "RSK山陽放送",
+                        "中国放送",
+                        "山陰放送",
+                        "テレビ山口",
+                        "あいテレビ",
+                        "テレビ高知",
+                        "RKB毎日放送",
+                        "長崎放送",
+                        "熊本放送",
+                        "大分放送",
+                        "宮崎放送",
+                        "南日本放送",
+                        "琉球放送"
+                    ],
+                    "dow": 6,
+                    "start_at": "1:50",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": [
+                        "TBSテレビ",
+                        "RSK山陽放送"
+                    ],
+                    "dow": 6,
+                    "start_at": "5:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS-TBS",
+                    "dow": 6,
+                    "start_at": "10:58",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "いわかける！",
+            "url": "http://iwakakeru-anime.com/",
+            "production": "BLADE",
+            "onair": [
+                {
+                    "channel": [
+                        "北海道テレビ放送",
+                        "青森朝日放送",
+                        "岩手朝日テレビ",
+                        "東日本放送",
+                        "秋田朝日放送",
+                        "山形テレビ",
+                        "福島放送",
+                        "テレビ朝日",
+                        "新潟テレビ21",
+                        "長野朝日放送",
+                        "北陸朝日放送",
+                        "静岡朝日テレビ",
+                        "メ～テレ",
+                        "朝日放送テレビ",
+                        "広島ホームテレビ",
+                        "山口朝日放送",
+                        "瀬戸内海放送",
+                        "愛媛朝日テレビ",
+                        "九州朝日放送",
+                        "長崎文化放送",
+                        "熊本朝日放送",
+                        "大分朝日放送",
+                        "鹿児島放送",
+                        "琉球朝日放送"
+                    ],
+                    "dow": 0,
+                    "start_at": "2:00",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 0,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/04"
+                }
+            ]
+        },
+        {
+            "title": "ウマ娘 プリティーダービー",
+            "url": "http://anime-umamusume.jp/",
+            "production": "P.A.WORKS",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 1,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/05"
+                }
+            ]
+        },
+        {
+            "title": "A3! SEASON AUTUMN ＆ WINTER",
+            "url": "https://www.a3-animation.jp/",
+            "production": "P.A.WORKS",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 2,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 2,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 2,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 2,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "長崎文化放送",
+                    "dow": 4,
+                    "start_at": "1:18",
+                    "start_date": "2020/10/22"
+                },
+                {
+                    "channel": "TBSチャンネル2",
+                    "dow": 5,
+                    "start_at": "17:00",
+                    "start_date": "2020/10/30"
+                }
+            ]
+        },
+        {
+            "title": "エタニティ　～深夜の濡恋ちゃんねる♡～",
+            "url": "https://eternity-nurechan.com/",
+            "production": "アニメーションスタジオ・セブン",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/05"
+                }
+            ]
+        },
+        {
+            "title": "オオカミさんは食べられたい",
+            "url": "https://lp.wwwave.jp/comicgp/okamisan.php",
+            "production": "ピークハント",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "1:00",
+                    "start_date": "2020/09/06"
+                }
+            ]
+        },
+        {
+            "title": "おそ松さん 第3期",
+            "url": "https://osomatsusan.com/",
+            "production": "studioぴえろ",
+            "onair": [
+                {
+                    "channel": "テレビ東京",
+                    "dow": 2,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "テレビ大阪",
+                    "dow": 2,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 2,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "テレビ北海道",
+                    "dow": 5,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/16"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 4,
+                    "start_at": "21:00",
+                    "start_date": "2020/10/15"
+                }
+            ]
+        },
+        {
+            "title": "おちこぼれフルーツタルト",
+            "url": "http://ochifuru-anime.com/",
+            "production": "feel.",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 1,
+                    "start_at": "21:30",
+                    "start_date": "2020/10/12"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "22:30",
+                    "start_date": "2020/10/12"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 3,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/14"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 1,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/12"
+                },
+                {
+                    "channel": "BS日テレ",
+                    "dow": 4,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/15"
+                }
+            ]
+        },
+        {
+            "title": "大人にゃ恋の仕方がわからねぇ！",
+            "url": "https://otokoi.cf-anime.com/",
+            "production": "エーテル・キトゥン",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/05"
+                }
+            ]
+        },
+        {
+            "title": "神様になった日",
+            "url": "https://kamisama-day.jp/",
+            "production": "P.A.WORKS",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 0,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "群馬テレビ",
+                    "dow": 0,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "とちぎテレビ",
+                    "dow": 0,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "ABCテレビ",
+                    "dow": 0,
+                    "start_at": "2:30",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "メ～テレ",
+                    "dow": 0,
+                    "start_at": "2:30",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "富山テレビ放送",
+                    "dow": 3,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/14"
+                },
+                {
+                    "channel": "山陰放送",
+                    "dow": 6,
+                    "start_at": "1:55",
+                    "start_date": "2020/10/17"
+                },
+                {
+                    "channel": "長崎文化放送",
+                    "dow": 2,
+                    "start_at": "1:18",
+                    "start_date": "2020/10/27"
+                },
+                {
+                    "channel": "テレビ神奈川",
+                    "dow": 3,
+                    "start_at": "1:00",
+                    "start_date": "2020/11/04"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 0,
+                    "start_at": "21:00",
+                    "start_date": "2020/10/11"
+                }
+            ]
+        },
+        {
+            "title": "神達に拾われた男",
+            "url": "https://kamihiro-anime.com/",
+            "production": "MAHO FILM",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "BSフジ",
+                    "dow": 3,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "J:テレ",
+                    "dow": 4,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/08"
+                }
+            ]
+        },
+        {
+            "title": "かえるのピクルス - きもちのいろ -",
+            "url": "https://pickles-anime.com/",
+            "production": "サニーガーペン",
+            "onair": [
+                {
+                    "channel": "BS12",
+                    "dow": 0,
+                    "start_at": "21:55",
+                    "start_date": "2020/10/04"
+                }
+            ]
+        },
+        {
+            "title": "機動戦士ガンダム",
+            "url": "http://www.gundam.jp/tv/index.html",
+            "production": "サンライズ",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 2,
+                    "start_at": "22:29",
+                    "start_date": "2020/09/08"
+                }
+            ]
+        },
+        {
+            "title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+            "url": "https://kimisentv.com/",
+            "production": "SILVER LINK.",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 3,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "ABCテレビ",
+                    "dow": 4,
+                    "start_at": "2:14",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 4,
+                    "start_at": "1:35",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 5,
+                    "start_at": "2:35",
+                    "start_date": "2020/10/09"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 6,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/10"
+                }
+            ]
+        },
+        {
+            "title": "ギャルと恐竜",
+            "url": "http://galkyo.com/",
+            "production": "スペースネコカンパニー",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 0,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "アニマックス",
+                    "dow": null,
+                    "start_at": null,
+                    "start_date": null
+                },
+                {
+                    "channel": "北海道テレビ放送",
+                    "dow": null,
+                    "start_at": null,
+                    "start_date": null
+                },
+                {
+                    "channel": "とちぎテレビ",
+                    "dow": null,
+                    "start_at": null,
+                    "start_date": null
+                }
+            ]
+        },
+        {
+            "title": "キングスレイド 意志を継ぐものたち",
+            "url": "https://www.anime-kings-raid.com/",
+            "production": "OLM×SUNRISE BEYOND",
+            "onair": [
+                {
+                    "channel": "テレビ東京",
+                    "dow": 6,
+                    "start_at": "1:23",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "くま クマ 熊 ベアー",
+            "url": "https://kumakumakumabear.com/onair/",
+            "production": "EMTスクエアード",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 3,
+                    "start_at": "21:00",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 3,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 5,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/09"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 6,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/10"
+                }
+            ]
+        },
+        {
+            "title": "ぐらぶるっ！",
+            "url": "https://guraburu.granbluefantasy.jp/",
+            "production": "DMM.futureworks",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 4,
+                    "start_at": "21:54",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "21:54",
+                    "start_date": "2020/10/08"
+                }
+            ]
+        },
+        {
+            "title": "ゴールデンカムイ 第3期",
+            "url": "https://kamuy-anime.com/",
+            "production": "ジェノスタジオ",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "読売テレビ",
+                    "dow": 2,
+                    "start_at": "1:59",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "札幌テレビ",
+                    "dow": 2,
+                    "start_at": "1:44",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 1,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "時代劇専門チャンネル",
+                    "dow": 0,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/11"
+                }
+            ]
+        },
+        {
+            "title": "ご注文はうさぎですか？ BLOOM",
+            "url": "https://gochiusa.com/bloom/",
+            "production": "エンカレッジフィルムズ",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 6,
+                    "start_at": "21:30",
+                    "start_date": ""
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/10"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 6,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/10"
+                },
+                {
+                    "channel": "ABEMA",
+                    "dow": 6,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/10"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 6,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/10"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 6,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/10"
+                }
+            ]
+        },
+        {
+            "title": "最響カミズモード！",
+            "url": "http://kamizmode-anime.com/",
+            "production": "BN Pictures",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "19:30",
+                    "start_date": "2020/10/09"
+                }
+            ]
+        },
+        {
+            "title": "シドニアの騎士 第九惑星戦役",
+            "url": "https://sidonia-anime.jp/",
+            "production": "ポリゴン・ピクチュアズ",
+            "onair": [
+                {
+                    "channel": "BS11",
+                    "dow": 2,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/06"
+                }
+            ]
+        },
+        {
+            "title": "Charlotte",
+            "url": "https://charlotte-anime.jp/",
+            "production": "P.A. WORKS",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "群馬テレビ",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "とちぎテレビ",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                }
+            ]
+        },
+        {
+            "title": "呪術廻戦",
+            "url": "https://jujutsukaisen.jp/",
+            "production": "MAPPA",
+            "onair": [
+                {
+                    "channel": [
+                        "北海道放送",
+                        "青森テレビ",
+                        "IBC岩手放送",
+                        "東北放送",
+                        "テレビユー山形",
+                        "テレビユー福島",
+                        "TBSテレビ",
+                        "テレビ山梨",
+                        "新潟放送",
+                        "信越放送",
+                        "チューリップテレビ",
+                        "北陸放送",
+                        "静岡放送",
+                        "CBCテレビ",
+                        "毎日放送",
+                        "RSK山陽放送",
+                        "中国放送",
+                        "山陰放送",
+                        "テレビ山口",
+                        "あいテレビ",
+                        "テレビ高知",
+                        "RKB毎日放送",
+                        "長崎放送",
+                        "熊本放送",
+                        "大分放送",
+                        "宮崎放送",
+                        "南日本放送",
+                        "琉球放送"
+                    ],
+                    "dow": 6,
+                    "start_at": "1:25",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "進撃の巨人 The Final Season",
+            "url": "https://shingeki.tv/final/",
+            "production": "MAPPA",
+            "onair": [
+                {
+                    "channel": "NHK総合",
+                    "dow": 1,
+                    "start_at": "0:10",
+                    "start_date": "2020/12/07"
+                }
+            ]
+        },
+        {
+            "title": "ストライクウィッチーズ ROAD to BERLIN",
+            "url": "http://w-witch.jp/strike_witches-rtb/",
+            "production": "david production",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 4,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 4,
+                    "start_at": "2:35",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 4,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 4,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 5,
+                    "start_at": "21:30",
+                    "start_date": "2020/10/09"
+                }
+            ]
+        },
+        {
+            "title": "せいぜいがんばれ！魔法少女くるみ 第3期",
+            "url": "https://www.seizeiganbare.jp/",
+            "production": "Pie in the sky",
+            "onair": [
+                {
+                    "channel": "BS11",
+                    "dow": 3,
+                    "start_at": "11:54",
+                    "start_date": "2020/10/07"
+                }
+            ]
+        },
+        {
+            "title": "生徒会役員共＊",
+            "url": "",
+            "production": "ＧｏHａｎｄｓ",
+            "onair": [
+                {
+                    "channel": "BS11",
+                    "dow": 2,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/06"
+                }
+            ]
+        },
+        {
+            "title": "戦翼のシグルドリーヴァ",
+            "url": "https://sigururi.com/",
+            "production": "A-1 Pictures",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "とちぎテレビ",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "群馬テレビ",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "中京テレビ",
+                    "dow": 7,
+                    "start_at": "1:59",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "千葉テレビ放送",
+                    "dow": 3,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 3,
+                    "start_at": "3:00",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 1,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/05"
+                }
+            ]
+        },
+        {
+            "title": "それだけがネック",
+            "url": "https://soredakega-neck.com/",
+            "production": "TIA 株式会社",
+            "onair": [
+                {
+                    "channel": "テレビ東京",
+                    "dow": 2,
+                    "start_at": "2:30",
+                    "start_date": "2020/10/13"
+                }
+            ]
+        },
+        {
+            "title": "体操ザムライ",
+            "url": "https://taiso-samurai.com/",
+            "production": "MAPPA",
+            "onair": [
+                {
+                    "channel": [
+                        "北海道テレビ放送",
+                        "青森朝日放送",
+                        "岩手朝日テレビ",
+                        "東日本放送",
+                        "秋田朝日放送",
+                        "山形テレビ",
+                        "福島放送",
+                        "テレビ朝日",
+                        "新潟テレビ21",
+                        "長野朝日放送",
+                        "北陸朝日放送",
+                        "静岡朝日テレビ",
+                        "メ～テレ",
+                        "朝日放送テレビ",
+                        "広島ホームテレビ",
+                        "山口朝日放送",
+                        "瀬戸内海放送",
+                        "愛媛朝日テレビ",
+                        "九州朝日放送",
+                        "長崎文化放送",
+                        "熊本朝日放送",
+                        "大分朝日放送",
+                        "鹿児島放送",
+                        "琉球朝日放送"
+                    ],
+                    "dow": 0,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "ABEMA",
+                    "dow": 0,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/11"
+                }
+            ]
+        },
+        {
+            "title": "ダンジョンに出会いを求めるのは間違っているだろうかlll",
+            "url": "http://danmachi.com/danmachi3/",
+            "production": "J.C.STAFF",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 6,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 6,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 6,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "ABEMA",
+                    "dow": 6,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "ツキウタ。 THE ANIMATION２",
+            "url": "https://tsukiani.com/",
+            "production": "Children's Playground Entertainment",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 3,
+                    "start_at": "22:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 3,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 4,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "メ～テレ",
+                    "dow": 4,
+                    "start_at": "2:11",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 5,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/09"
+                }
+            ]
+        },
+        {
+            "title": "つくもがみ貸します",
+            "url": "http://tsukumogami.jp/",
+            "production": "テレコム・アニメーションフィルム",
+            "onair": [
+                {
+                    "channel": "NHK Eテレ",
+                    "dow": 3,
+                    "start_at": "19:25",
+                    "start_date": "2020/09/30"
+                }
+            ]
+        },
+        {
+            "title": "D4DJ First Mix",
+            "url": "https://anime.d4dj-pj.com/",
+            "production": "サンジゲン",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/30"
+                },
+                {
+                    "channel": "BS日テレ",
+                    "dow": 5,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/30"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 6,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/31"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 5,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/30"
+                },
+                {
+                    "channel": "テレビ神奈川",
+                    "dow": 5,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/30"
+                },
+                {
+                    "channel": "チバテレ",
+                    "dow": 5,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/30"
+                },
+                {
+                    "channel": "テレビユー山形",
+                    "dow": 6,
+                    "start_at": "1:55",
+                    "start_date": "2020/10/31"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 5,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/30"
+                },
+                {
+                    "channel": "RKB毎日放送",
+                    "dow": 0,
+                    "start_at": "2:00",
+                    "start_date": "2020/11/01"
+                },
+                {
+                    "channel": "テレビ山口",
+                    "dow": 0,
+                    "start_at": "1:54",
+                    "start_date": "2020/11/01"
+                },
+                {
+                    "channel": "宮崎放送",
+                    "dow": 0,
+                    "start_at": "1:58",
+                    "start_date": "2020/11/01"
+                },
+                {
+                    "channel": "北陸朝日放送",
+                    "dow": 1,
+                    "start_at": "1:30",
+                    "start_date": "2020/11/02"
+                },
+                {
+                    "channel": "大分放送",
+                    "dow": 1,
+                    "start_at": "2:20",
+                    "start_date": "2020/11/02"
+                },
+                {
+                    "channel": "静岡朝日テレビ",
+                    "dow": 2,
+                    "start_at": "1:59",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "山陽放送",
+                    "dow": 2,
+                    "start_at": "1:52",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "青森テレビ",
+                    "dow": 2,
+                    "start_at": "1:39",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "秋田朝日放送",
+                    "dow": 2,
+                    "start_at": "1:50",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "岩手朝日テレビ",
+                    "dow": 2,
+                    "start_at": "1:50",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "長野朝日放送",
+                    "dow": 2,
+                    "start_at": "1:20",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "琉球朝日放送",
+                    "dow": 2,
+                    "start_at": "1:20",
+                    "start_date": "2020/11/03"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 3,
+                    "start_at": "1:35",
+                    "start_date": "2020/11/04"
+                },
+                {
+                    "channel": "東日本放送",
+                    "dow": 3,
+                    "start_at": "1:31",
+                    "start_date": "2020/11/04"
+                },
+                {
+                    "channel": "テレビ新広島",
+                    "dow": 3,
+                    "start_at": "2:00",
+                    "start_date": "2020/11/04"
+                },
+                {
+                    "channel": "福島放送",
+                    "dow": 3,
+                    "start_at": "1:20",
+                    "start_date": "2020/11/04"
+                },
+                {
+                    "channel": "愛媛朝日テレビ",
+                    "dow": 3,
+                    "start_at": "1:50",
+                    "start_date": "2020/11/04"
+                },
+                {
+                    "channel": "テレビ熊本",
+                    "dow": 4,
+                    "start_at": "1:55",
+                    "start_date": "2020/11/05"
+                },
+                {
+                    "channel": "北海道テレビ放送",
+                    "dow": 5,
+                    "start_at": "1:20",
+                    "start_date": "2020/11/06"
+                },
+                {
+                    "channel": "テレビ山梨",
+                    "dow": 5,
+                    "start_at": "2:30",
+                    "start_date": "2020/11/06"
+                },
+                {
+                    "channel": "新潟テレビ21",
+                    "dow": 5,
+                    "start_at": "1:25",
+                    "start_date": "2020/11/06"
+                },
+                {
+                    "channel": "南日本放送",
+                    "dow": 5,
+                    "start_at": "1:05",
+                    "start_date": "2020/11/06"
+                },
+                {
+                    "channel": "長崎文化放送",
+                    "dow": 5,
+                    "start_at": "1:18",
+                    "start_date": "2020/11/06"
+                }
+            ]
+        },
+        {
+            "title": "土下座で頼んでみた",
+            "url": "https://dogeza-anime.com/",
+            "production": "DMM pictures",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 3,
+                    "start_at": "23:05",
+                    "start_date": "2020/10/14"
+                }
+            ]
+        },
+        {
+            "title": "トニカクカワイイ",
+            "url": "http://tonikawa.com/",
+            "production": "Seven Arcs",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "読売テレビ",
+                    "dow": 2,
+                    "start_at": "2:29",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "BS日テレ",
+                    "dow": 2,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "ABEMA",
+                    "dow": 6,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 5,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/09"
+                }
+            ]
+        },
+        {
+            "title": "ドラゴンクエスト ダイの大冒険",
+            "url": "https://dq-dai.com/",
+            "production": "東映アニメーション",
+            "onair": [
+                {
+                    "channel": [
+                        "テレビ東京",
+                        "テレビ北海道",
+                        "テレビ愛知",
+                        "テレビ大阪",
+                        "テレビせとうち",
+                        "TVQ九州放送"
+                    ],
+                    "dow": 6,
+                    "start_at": "9:30",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "NOBLESSE -ノブレス-",
+            "url": "https://noblesse-anime.com/",
+            "production": "Production I.",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 4,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/08"
+                }
+            ]
+        },
+        {
+            "title": "ハイキュー!! TO THE TOP",
+            "url": "https://haikyu.jp/",
+            "production": "Production I.G",
+            "onair": [
+                {
+                    "channel": [
+                        "TBSテレビ",
+                        "毎日放送"
+                    ],
+                    "dow": 6,
+                    "start_at": "2:25",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS-TBS",
+                    "dow": 6,
+                    "start_at": "3:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "東北放送",
+                    "dow": 3,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "岩手放送",
+                    "dow": 3,
+                    "start_at": "1:28",
+                    "start_date": "2020/10/14"
+                }
+            ]
+        },
+        {
+            "title": "這いよれ！ ニャル子さん",
+            "url": "https://nyaruko.com/first/",
+            "production": "XEBEC",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/02"
+                }
+            ]
+        },
+        {
+            "title": "半妖の夜叉姫",
+            "url": "http://hanyo-yashahime.com/",
+            "production": "サンライズ",
+            "onair": [
+                {
+                    "channel": [
+                        "札幌テレビ放送",
+                        "青森放送",
+                        "テレビ岩手",
+                        "宮城テレビ放送",
+                        "秋田放送",
+                        "山形放送",
+                        "福島中央テレビ",
+                        "日本テレビ放送網",
+                        "山梨放送",
+                        "テレビ新潟放送網",
+                        "テレビ信州",
+                        "静岡第一テレビ",
+                        "北日本放送",
+                        "テレビ金沢",
+                        "福井放送",
+                        "中京テレビ放送",
+                        "讀賣テレビ放送",
+                        "日本海テレビジョン放送",
+                        "広島テレビ放送",
+                        "山口放送",
+                        "四国放送",
+                        "西日本放送",
+                        "南海放送",
+                        "高知放送",
+                        "福岡放送",
+                        "長崎国際テレビ",
+                        "熊本県民テレビ",
+                        "テレビ大分",
+                        "テレビ宮崎",
+                        "鹿児島讀賣テレビ"
+                    ],
+                    "dow": 6,
+                    "start_at": "17:30",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "ひぐらしのなく頃に",
+            "url": "https://higurashianime.com/",
+            "production": "パッショーネ",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 4,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/01"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/01"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 5,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/02"
+                }
+            ]
+        },
+        {
+            "title": "ヒプノシスマイク -Division Rap Battle-",
+            "url": "https://hypnosismic-anime.com/",
+            "production": "A-1 Pictures",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 6,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "群馬テレビ",
+                    "dow": 6,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "とちぎテレビ",
+                    "dow": 6,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 0,
+                    "start_at": "2:08",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 0,
+                    "start_at": "1:20",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "アニマックス",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/17"
+                }
+            ]
+        },
+        {
+            "title": "秘密結社 鷹の爪 ～ゴールデン・スペル～",
+            "url": "http://xn--u9j429qiq1a.jp/gs/",
+            "production": "DLE",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "1:20",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 1,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "CSファミリー劇場",
+                    "dow": 1,
+                    "start_at": "1:35",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "J:テレ",
+                    "dow": 2,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/06"
+                }
+            ]
+        },
+        {
+            "title": "100万の命の上に俺は立っている",
+            "url": "http://1000000-lives.com/",
+            "production": "MAHO FILM",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/02"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 6,
+                    "start_at": "1:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 6,
+                    "start_at": "2:55",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "WOWOW",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 1,
+                    "start_at": "21:00",
+                    "start_date": "2020/10/05"
+                }
+            ]
+        },
+        {
+            "title": "ふしぎ駄菓子屋 銭天堂",
+            "url": "http://www.toei-anim.co.jp/tv/zenitendo/",
+            "production": "東映アニメーション",
+            "onair": [
+                {
+                    "channel": "NHK Eテレ",
+                    "dow": 2,
+                    "start_at": "18:45",
+                    "start_date": "2020/09/08"
+                }
+            ]
+        },
+        {
+            "title": "まえせつ！",
+            "url": "https://maesetsu.jp/",
+            "production": "Studio五組",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 0,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 1,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "BS日テレ",
+                    "dow": 2,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 3,
+                    "start_at": "3:30",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "山梨放送",
+                    "dow": 0,
+                    "start_at": "13:00",
+                    "start_date": "2020/10/18"
+                }
+            ]
+        },
+        {
+            "title": "魔王城でおやすみ",
+            "url": "https://maoujo-anime.com/",
+            "production": "動画工房",
+            "onair": [
+                {
+                    "channel": "テレビ東京",
+                    "dow": 2,
+                    "start_at": "2:00",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "BSテレ東",
+                    "dow": 4,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/08"
+                },
+                {
+                    "channel": "AT-X",
+                    "dow": 2,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/06"
+                }
+            ]
+        },
+        {
+            "title": "禍つヴァールハイト -ZUERST-",
+            "url": "https://magatsu-wahrheit-zuerst.com/",
+            "production": "横浜アニメーションラボ",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 2,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 2,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/13"
+                },
+                {
+                    "channel": "WOWOW",
+                    "dow": 4,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/15"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 0,
+                    "start_at": "3:08",
+                    "start_date": "2020/10/18"
+                }
+            ]
+        },
+        {
+            "title": "魔女の旅々",
+            "url": "https://majotabi.jp/",
+            "production": "C2C",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 5,
+                    "start_at": "21:00",
+                    "start_date": "2020/10/02"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 5,
+                    "start_at": "22:30",
+                    "start_date": "2020/10/02"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 0,
+                    "start_at": "1:50",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 6,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 6,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 5,
+                    "start_at": "23:00",
+                    "start_date": "2020/10/02"
+                }
+            ]
+        },
+        {
+            "title": "魔法科高校の劣等生 来訪者編",
+            "url": "https://mahouka.jp/",
+            "production": "エイトビット",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "とちぎテレビ",
+                    "dow": 0,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "群馬テレビ",
+                    "dow": 0,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 0,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 0,
+                    "start_at": "2:38",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 1,
+                    "start_at": "2:05",
+                    "start_date": "2020/10/05"
+                }
+            ]
+        },
+        {
+            "title": "無能なナナ",
+            "url": "ブリッジ",
+            "production": "https://munounanana.com/",
+            "onair": [
+                {
+                    "channel": "AT-X",
+                    "dow": 0,
+                    "start_at": "21:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "22:00",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 0,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/04"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 1,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "BSフジ",
+                    "dow": 3,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/07"
+                }
+            ]
+        },
+        {
+            "title": "約束のネバーランド",
+            "url": "https://neverland-anime.com/",
+            "production": "CloverWorks",
+            "onair": [
+                {
+                    "channel": "",
+                    "dow": "",
+                    "start_at": "",
+                    "start_date": ""
+                }
+            ]
+        },
+        {
+            "title": "憂国のモリアーティ",
+            "url": "https://moriarty-anime.com/",
+            "production": "Production I.G",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 0,
+                    "start_at": "22:30",
+                    "start_date": "2020/10/11"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 3,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/14"
+                },
+                {
+                    "channel": "毎日放送",
+                    "dow": 3,
+                    "start_at": "2:30",
+                    "start_date": "2020/10/14"
+                }
+            ]
+        },
+        {
+            "title": "よりぬき銀魂さん　ポロリ篇",
+            "url": "https://www.tv-tokyo.co.jp/anime/gintama/",
+            "production": "BN Pictures",
+            "onair": [
+                {
+                    "channel": [
+                        "テレビ東京",
+                        "テレビ北海道",
+                        "テレビ愛知",
+                        "テレビ大阪",
+                        "テレビせとうち",
+                        "TVQ九州放送"
+                    ],
+                    "dow": 3,
+                    "start_at": "17:55",
+                    "start_date": "2020/10/07"
+                }
+            ]
+        },
+        {
+            "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+            "url": "http://www.lovelive-anime.jp/nijigasaki/",
+            "production": "サンライズ",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "22:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "サンテレビ",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "KBS京都",
+                    "dow": 6,
+                    "start_at": "23:30",
+                    "start_date": "2020/10/03"
+                },
+                {
+                    "channel": "BS11",
+                    "dow": 1,
+                    "start_at": "0:30",
+                    "start_date": "2020/10/05"
+                },
+                {
+                    "channel": "テレビ愛知",
+                    "dow": 3,
+                    "start_at": "1:35",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "静岡朝日テレビ",
+                    "dow": 3,
+                    "start_at": "1:59",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "テレビ北海道",
+                    "dow": 3,
+                    "start_at": "1:35",
+                    "start_date": "2020/10/07"
+                },
+                {
+                    "channel": "TVQ九州放送",
+                    "dow": 3,
+                    "start_at": "2:35",
+                    "start_date": "2020/10/07"
+                }
+            ]
+        },
+        {
+            "title": "ラブライブ！サンシャイン!! 1期",
+            "url": "http://www.lovelive-anime.jp/uranohoshi/",
+            "production": "サンライズ",
+            "onair": [
+                {
+                    "channel": "BS11",
+                    "dow": 4,
+                    "start_at": "22:30",
+                    "start_date": "2020/10/08"
+                }
+            ]
+        },
+        {
+            "title": "ラブライブ！サンシャイン!! 2期",
+            "url": "http://www.lovelive-anime.jp/uranohoshi/",
+            "production": "サンライズ",
+            "onair": [
+                {
+                    "channel": "BS日テレ",
+                    "dow": 0,
+                    "start_at": "0:00",
+                    "start_date": "2020/10/04"
+                }
+            ]
+        },
+        {
+            "title": "レヱル・ロマネスク",
+            "url": "https://railromanesque.jp/",
+            "production": "サエッタ",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 6,
+                    "start_at": "1:00",
+                    "start_date": "2020/10/03"
+                }
+            ]
+        },
+        {
+            "title": "One Room サードシーズン",
+            "url": "https://oneroom-anime.com/",
+            "production": "ゼロジー",
+            "onair": [
+                {
+                    "channel": "TOKYO MX",
+                    "dow": 2,
+                    "start_at": "1:05",
+                    "start_date": "2020/10/06"
+                },
+                {
+                    "channel": "BS日テレ",
+                    "dow": 3,
+                    "start_at": "0:28",
+                    "start_date": "2020/10/07"
+                }
+            ]
+        }
+    ]
+}
